@@ -1,2 +1,2 @@
 # Spirate
-Spirate es Un tema para smf 2.1.x basado en el popular kit de herramientas de código abierto front-end - Bootstrap para la versión 2.1.x de smf
+Spirate es Un tema para smf 2.1.x construido con v5.x de  bootstrap, el nombre esta inspirado en el ya extinto spirate small pirate
